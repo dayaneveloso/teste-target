@@ -5,17 +5,25 @@ Este repositório contém minhas soluções para os desafios de programação pr
 
 ## Estrutura do Repositório:
 
-questao_1.py: Solução para a questão 1 (cálculo de soma em loop). \n
-questao_2.py: Solução para a questão 2 (verificação de número na sequência de Fibonacci). \n
-questao_3.py: Solução para a questão 3 (análise de faturamento diário a partir de dados JSON).
-questao_4.py: Solução para a questão 4 (cálculo de percentuais de faturamento por estado).
-questao_5.py: Solução para a questão 5 (inversão de string sem usar funções prontas).
-dados.json: Arquivo JSON utilizado na questão 3.
-README.md: Este arquivo, com informações sobre o repositório e as soluções.
-Abordagem das Soluções:
+questao_1.py: Solução para a questão 1 (cálculo de soma em loop).
 
-Clareza e organização: O código é comentado e estruturado para facilitar a compreensão da lógica utilizada.
+questao_2.py: Solução para a questão 2 (verificação de número na sequência de Fibonacci).
+
+questao_3.py: Solução para a questão 3 (análise de faturamento diário a partir de dados JSON).
+
+questao_4.py: Solução para a questão 4 (cálculo de percentuais de faturamento por estado).
+
+questao_5.py: Solução para a questão 5 (inversão de string sem usar funções prontas).
+
+dados.json: Arquivo JSON utilizado na questão 3.
+
+
+## Abordagem das Soluções:
+
+Clareza e organização: O código é comentado (em partes que achei necessárias para melhor entendimento) e estruturado para facilitar a compreensão da lógica utilizada.
+
 Eficiência: As soluções buscam ser eficientes em termos de tempo de execução e uso de recursos.
+
 Flexibilidade: Algumas soluções permitem que a entrada de dados seja fornecida pelo usuário ou definida no código.
 
 ## Como Executar:
