@@ -29,9 +29,13 @@ Flexibilidade: Algumas soluções permitem que a entrada de dados seja fornecida
 ## Como Executar:
 
 Clone este repositório para sua máquina.
+
 Certifique-se de ter o Python instalado.
+
 Execute cada arquivo .py individualmente usando o terminal: python nome_do_arquivo.py
-Observações:
+
+
+## Observações:
 
 A questão 3 requer o arquivo dados.json presente no repositório.
 As soluções foram desenvolvidas e testadas em um ambiente Python 3.x.
