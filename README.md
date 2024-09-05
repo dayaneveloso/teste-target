@@ -5,8 +5,8 @@ Este repositório contém minhas soluções para os desafios de programação pr
 
 ## Estrutura do Repositório:
 
-questao_1.py: Solução para a questão 1 (cálculo de soma em loop).
-questao_2.py: Solução para a questão 2 (verificação de número na sequência de Fibonacci).
+questao_1.py: Solução para a questão 1 (cálculo de soma em loop). \n
+questao_2.py: Solução para a questão 2 (verificação de número na sequência de Fibonacci). \n
 questao_3.py: Solução para a questão 3 (análise de faturamento diário a partir de dados JSON).
 questao_4.py: Solução para a questão 4 (cálculo de percentuais de faturamento por estado).
 questao_5.py: Solução para a questão 5 (inversão de string sem usar funções prontas).
